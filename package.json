@@ -1,0 +1,16 @@
+{
+  "name": "markdown-hexo-loader",
+  "version": "0.0.1",
+  "description": "markdown loader for webpack,only works with hexo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "hexo"
+  ],
+  "author": "kimown",
+  "license": "ISC"
+}
